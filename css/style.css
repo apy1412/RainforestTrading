@@ -38,7 +38,7 @@ body {
   grid-template-columns: 1fr 100px;
   grid-template-rows: 100px 1fr;
   height: 100vh;
-  background-image: url("/images/Untitled-1@2x.png");
+  background-image: url("../images/hero.jpg");
   background-size: cover;
   background-position: center center;
 }
@@ -52,7 +52,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50%;
+  border-radius: 70%;
   background-color: transparent;
 }
 
