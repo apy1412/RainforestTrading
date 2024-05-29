@@ -38,7 +38,7 @@ body {
   grid-template-columns: 1fr 100px;
   grid-template-rows: 100px 1fr;
   height: 100vh;
-  background-image: url("../images/hero.jpg");
+  background: url("../images/bringingWorld.png");
   background-size: cover;
   background-position: center center;
 }
@@ -89,7 +89,7 @@ body {
   padding: 0 2rem 25rem 2rem;
   text-align: center;
   font-family: "Playfair Display", serif;
-  color: var(--primayColor);
+  color: var(--mediumBlue);
   line-height: 1;
   text-transform: capitalize;
   margin: 0;
