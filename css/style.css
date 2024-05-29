@@ -136,7 +136,7 @@ body {
 /* menu section------------------------------ */
 
 .menu {
-  width: 100%;
+  width: 50%;
   height: calc(100vh+4rem);
   background-color: white;
   position: fixed;
@@ -274,8 +274,8 @@ h5 {
 
 h4 {
   font-size: 2.4rem;
-  background: linear-gradient(to right, #c4d7f2, #196685);
-  padding: 2rem;
+
+  padding: 2rem 0 1rem 0;
 }
 
 .expert a {
